@@ -1,3 +1,3 @@
 import { you } from "./you";
 
-alert(you());
+alert(you(4 + 7 ));
