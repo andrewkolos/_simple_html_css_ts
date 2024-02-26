@@ -1,1 +1,3 @@
-alert("hello from TS code. you are doing an great jojb.");
+import { you } from "./you";
+
+alert(you());
